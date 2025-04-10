@@ -1,5 +1,14 @@
-# 💫 About Me:
-I'm  a software Engineer.
+## 👨‍💻 About Me
+
+Hey there! I'm a **Software Engineer** passionate about building cool stuff with code.
+
+- 🔭 Currently diving deep into **full-stack development** and **AI/ML**
+- 🐍 Love working with **Python**,**React**  and **Django**
+- 🛠️ Currently building a project on **PostgreSQL**
+- 🌱 Always exploring new tech and best practices
+- 🎯 Goal: Become a versatile developer who can handle everything from backend logic to frontend polish
+
+Let’s connect and build something awesome together! 🚀
 
 
 ## 🌐 Socials:
